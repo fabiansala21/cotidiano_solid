@@ -1,1 +1,0 @@
-# cotidiano_solid

@@ -22,4 +22,4 @@ fun main() {
     for (dispositivo in dispositivos) {
         dispositivo.encender()
     }
-}  
+}
